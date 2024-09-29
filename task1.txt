@@ -1,25 +1,21 @@
-The bar chart shows the proportion of UK students and international students achieving second class degrees or higher in seven different subjects at a university in the UK.
+The provided bar chart illustrates the comparative attainment rates of second-class degrees or higher among UK students and international students across seven distinct subjects at a UK university.
 
 
 
-Degree results were generally good for both home and international students, with well over 50 per cent gaining a second-class degree or better in all seven subjects except International Law.
+Overall, the academic performance of both domestic and international students was commendable, with a significant majority exceeding the 50% mark in securing second-class degrees or above across all subjects, barring International Law.
 
-International students tended to do better than UK students in technology-related subjects.
+Notably, international students demonstrated a comparative strength in technology-focused disciplines, notably Information Technology.
 
-This was particularly true of Information Technology.
-
-Whereas over 80 per cent of international students gained a good degree in IT, only about half of the UK students did so.
+Here, a striking contrast emerged: over 80% of international students excelled in IT, while only approximately half of UK students achieved a similar level of success.
 
 
 
-Degree results were similar for the two groups in Nursing and Accounting.
+Conversely, parity was observed between the two cohorts in the fields of Nursing and Accounting.
 
-In Arts and Social Science-related subjects, UK students tended to do better.
+In Arts and Social Science domains, UK students exhibited a tendency towards higher achievement levels.
 
-The biggest gap in performance was in International Law, where three-quarters of UK students gained a second class degree or better.
-
-In contrast, fewer than half of the international students attained this level.
+The most pronounced discrepancy in performance surfaced within International Law, where a substantial 75% of UK students obtained second-class degrees or higher, contrasting with less than half of the international students achieving a similar standard.
 
 
 
-Overall, the chart suggests that international and UK students had different strengths when studying for degrees in this UK university.
+In essence, the data presented in the chart underscores the diverse academic strengths of international and UK students pursuing degrees at this UK-based institution.
